@@ -1,3 +1,7 @@
+**NOTE: This project used to be a fork but the original author deleted the repository, which automatically made me the new 'owner'. See [GitHub docs](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility#deleting-a-public-repository) for more information about this topic. I do not wish to continue maintenance of this project myself though.**
+
+---
+
 # Cookie API
 
 This API made in Go is used to generate cookie for Akamai & PX. Made by @obito.
